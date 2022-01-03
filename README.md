@@ -28,6 +28,8 @@ Whoever wants to learn Software and Hardware.
 * You can get internships with ease.
 <hr>
 
+**Recent Update**
+Added history of computer - Jan 3,2022
 
 ### <span style="color:#15c670">Authors:</span> 
 - [@Aariv](https://www.tmklabs.com)

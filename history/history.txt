@@ -1,0 +1,34 @@
+Hi, if you look around your home or surroundings or a road, you come across multiple smart devices or gadgets or anything which works for you using electricity. but have you ever questioned yourself how they work? well frankly, many of us do not even think of the question. and of course, it's not our problem😁😁. but in case if you want to contribute something in the fields of Computers, Mathematics, or Science, I believe, it's very important to know these things. 
+
+So why am I writing articles on this when there are so many well-written articles?
+its simple, there are so many answers but none of them had been explained from the perspective of the first principles. and one more thing, they are just abstract (ignoring the basic fundamental things). I believe my answer makes sense to you. even now, if you are not satisfied with my answer, let me drop some questions here.
+If computers work with electricity, how does electricity work?
+What exactly happens when you turn on the switch?
+How does a computer understand your language?
+If a computer can understand only on and off of your switch, how is it able to send messages, draw a sketch, edit images or play your favorite games?
+How does a computer monitor work and how is it showing when you type something on a keyboard without taking any significant time?
+what is memory and what is the difference between RAM and Hard disk?
+What is CPU and how it is made?
+I believe these are enough to conclude why I want to write articles on this concept.  Apart from this, if you are a youngster or a parent, here is the reality. If you look around your surroundings at your home, there are countless systems that are observing you constantly to collect data of who you are, where are you, what are your plans, your ambitions, your secrets, what not!!, in one word, there is nobody who knows more about you than that system. Even you don't know about yourself, but the systems around you exactly know what you do at a particular time. And as these systems and internet services increase significantly, companies now are able to collect more data than you could ever imagine and then your data is used to target you for commercial purposes. The more data they have, the more accurately they can target us to make money.
+If you have the habit of watching the news, sometimes you might come across catching terrorists, who are a threat not only to our country but to the world. In order to prevent this incident in advance, our governments regardless of which country you reside in, either partner up or else play the third person role to monitor our movements on the Internet. Means your incognito is not incognito, your messages with your loved ones are not shared between you too, your business call, your girlfriend, your parents… regardless of the personal background, it will be stored and with one unique id search, they can see your movements from the first day of your interaction with computer systems. these records remain available indefinitely and this data will never be deleted as the data store is getting cheaper today.
+On one side, it is astonishing how simple our lives became but the other part we are ignoring is, we are living someone else's life now. And the most important one, that one mistake you do on the internet by clicking a link or visiting a site can destroy you completely. Or the same small mistake by the companies who has your data can ruin crores of people's lives.
+
+
+So here are the questions for you.
+How private are your messages?
+How secure are your bank accounts?
+How does your phone work?
+And so on…
+
+
+
+So, in this series, my focus is to explain to you 
+What is data?
+How is this data processed using computer systems and how does the computer work?
+How does the computer communicate with other computers using the network?
+Bigger is becoming bigger - 2TB memory can be fit into your pockets
+ Smaller is becoming smaller - Your Computer is on your wrist from the size of a big building
+
+
+ you will get more than 40 articles starting with what is atom to how a high-level programming language like python works in real-time. At Batch7, we believe "If you cannot explain a concept to a 5-year kid, you are not clear with that concept". Keeping this in our mind, I assure you that I and my team make sure that anybody with basic English reading skills can understand these articles. 
+

@@ -30,7 +30,10 @@ Whoever wants to learn Software and Hardware.
 
 **Recent Update**
 Added history of computer intro - history.txt - Jan 3,2022
+<br>
 Added Part1 Charles Babbage - part1-charles-babbage.txt - Jan 3,2022
+<br>
+Added The Invention of Charles Babbage - part2-the-invention-of-charles-babbage.txt - Jan 3,2022
 
 ### <span style="color:#15c670">Authors:</span> 
 - [@Aariv](https://www.tmklabs.com)

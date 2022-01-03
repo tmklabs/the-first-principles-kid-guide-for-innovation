@@ -29,7 +29,8 @@ Whoever wants to learn Software and Hardware.
 <hr>
 
 **Recent Update**
-Added history of computer - Jan 3,2022
+Added history of computer intro - history.txt - Jan 3,2022
+Added Part1 Charles Babbage - part1-charles-babbage.txt - Jan 3,2022
 
 ### <span style="color:#15c670">Authors:</span> 
 - [@Aariv](https://www.tmklabs.com)

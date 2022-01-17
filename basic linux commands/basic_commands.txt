@@ -1,0 +1,38 @@
+LINUX BASIC COMMANDS
+
+cat file1.txt file2.txt .... fileN.txt: 
+To print the contents stored in the given file or files in the terminal
+
+ls:
+To list the files or folders stored in the directory
+
+ls -l :
+This command provides more information about the contents stored in the directory.
+
+cd :
+To navigate between directories.
+
+mv file1.txt file2.txt:
+To rename file1.txt to file2.txt.
+
+mv file1.txt file2.txt ...... fileN.txt foldername/ :
+This command will move the specified files to the specified folder.
+
+mkdir foldername :
+To create a folder
+
+mmkdir foldername1 foldername2 .... foldernameN :
+To create multiple folders.
+
+mkdir "folder name" :
+To create a folder whose name consists of spaces
+
+rmdir foldername1 foldername2 ..... foldernameN or rm -rf foldername :
+To delete folders
+
+rm file1.txt file2.txt ..... fileN.txt :
+To delete files
+
+
+
+

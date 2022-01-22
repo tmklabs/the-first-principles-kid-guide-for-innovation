@@ -35,7 +35,6 @@ Added VS Code extensions - Jan 14,2022
 
 ### <span style="color:#15c670">Members:</span> 
 - [@Aariv](https://github.com/aarivz09)
-- [@Pranjal](https://github.com/pranjalsharmahp)
 - [@Sushant](https://github.com/sushantsharma13981)
 <hr>
 

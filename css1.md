@@ -256,3 +256,88 @@ WHAT TO LEARN?
 17. final element width : left border + left padding + width + right padding + right border
 18. final element height : top broder + top padding + height +
     bottom padding + bottom border
+
+19. short hand operators
+
+```
+ <br>
+ padding: 10px 20px;
+ 10px - top and bottom
+ 20px - left and right
+```
+
+20. Image styles
+
+```
+height
+width
+```
+
+Note: if you mention height or width in the html
+it will be override by css properties.
+
+auto value automatically gives the height or width based on the size of the screen.
+
+```
+width and height in %
+```
+
+20. centering page content
+
+```
+.container {
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+```
+
+21. Types of boxes
+
+```
+1. inline boxes
+    takes only necessary space.
+    no line breaks after the content.
+    **padding nad margins are applied only horizonatally.**
+    heights and widths do not apply.
+
+2. block level boxes
+    elements formatted as blocks.
+    Eg: body,main,header,footer,seciton,nav,
+    aside,div,h1-h6,p,ul,ol,li...
+
+3. inline block
+    inline from outside
+    block from inside
+```
+
+22. absoulute and relative positioning
+
+23. pseudo elements
+
+```
+h1::first-letter{
+
+}
+p::first-line{
+
+}
+```
+
+24. adjacent sibling elements
+
+```
+the element that comes after another element but within a parent.
+Eg:
+h3+p::first-line{
+
+}
+```
+
+25. after and before
+
+```
+
+```
+
+26. always longer selector will be selected.

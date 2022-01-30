@@ -1,0 +1,6 @@
+These Useful Books can help in Blowing your Mind with Productive Knowledge about Computer Systems :-
+
+   Name				                        By			                  Publication
+1. How Linux Works     		               Brain Ward		            no starch press
+2. Understanding the Digital World        Brain W. Kernighan         Princeton University Press Princeton and Oxford
+3. Getting Started in Electronics         Forrest M. Mims            .......

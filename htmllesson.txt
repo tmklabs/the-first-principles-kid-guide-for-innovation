@@ -1,0 +1,54 @@
+HyperTextMarkupLanguage
+👉 HTML is a markuplanguage  (not a programming language) that we use to
+1. structure and
+2. describe the content of a webpage 
+
+👉 HTML consists of elements that described ifferent types of content:
+paragraphs, links, headings, images, video, etc.
+👉 Webbrowsers understand HTML and render HTML code as websites
+  
+
+basic syntaxt
+
+<tagname> = opening tag
+</tagname> = closing tag
+
+
+<p>hello world </p>
+
+p - paragrah tag
+
+<p> opening tag
+
+content goes here
+
+</p> clsoing tag
+
+basic skeleton
+
+
+<!DOCTYPE html> --> says that this file is html file and so browser should change its state to load html pages.
+<html>  -- root tag of every html page. and it must contain 2 sub tags head and body.
+  <head>  -- head we use to keep invisible data like cdn's (content delivery network, linking html file to other files...)
+    <title>The Basic Language of the Web: HTML</title>
+  </head>
+
+  <body>  -- body we use to show the visible content.
+
+  </body>
+  </html>
+
+tags that you must learn
+*MOST IMPORTANT TAGS*
+
+1. headings
+2. paragraph
+3. anchor or a tag 
+4. image
+5. forms - input tags
+6. br,hr,strong
+7. header tag -  top part of a webpage
+8. footer tag -bottom part of a webpage
+9. article tag
+
+semantic meaning

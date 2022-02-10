@@ -1,0 +1,11 @@
+Concepts to learn in js
+
+1. How Js started
+2. console.log, Datatypes and Variables [var,let,const]
+3. Operators in details 
+4. Strings and Template literals printing
+5. Precedence and Associativity 
+5. Conditional statements
+6. Functions
+
+will add the rest soon...

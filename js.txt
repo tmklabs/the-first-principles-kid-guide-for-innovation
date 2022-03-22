@@ -1,11 +1,19 @@
 Concepts to learn in js
 
-1. How Js started
-2. console.log, Datatypes and Variables [var,let,const]
-3. Operators in details 
-4. Strings and Template literals printing
-5. Precedence and Associativity 
-5. Conditional statements
-6. Functions
+How Js started
+console.log, Datatypes and Variables [var,let,const]
+use strict // activating strict mode
+Operators in details 
+Strings and Template literals printing
+Precedence and Associativity 
+Conditional statements
+Functions
+functions declarations vs expressions
+Arrow functions
+First class functionsfunctions classing other functions
+Loops
+looping arrays
+jumping statements
+nested Loops
 
-will add the rest soon...
+will add the remaining topics soon...

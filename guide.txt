@@ -1,0 +1,44 @@
+Step by step guide to learn programming.
+
+Hi, this is Aariv. So learning programming is a slow process and here are the things you need.
+
+1. Kid like excitement to learn
+2. Patience
+3. Practice
+4. Interaction with people who are already practicing.
+
+So how to learn?
+1. Solve basic arithmetic problems like additions, subtractions, divisions and multiplications
+2. rounding a number, symbol,digit,placevalue,facevalue, immediate right number, immediate left number, GEMDAS (precedence and associativity), implied multiplication, properties of numbers,  factors, squaring, prime number series, decimals, fractions, proper fraciton, imporoper fraciton, multiplying factors, percentages, 
+ 
+3. Solve basic aptitude
+4 . Learn programming basic theory like 
+how does a computer work
+behind the scenes of program execution
+comments,
+variables,
+datatype/primitive
+operators- logical, comparitive, arithmetic, unary, terenary operators
+rules of variables,
+conditional statements: if,ifelse,elseif ladder,
+jumping statements: break and continue,
+loops: for,while and do while 
+funcitons,formal paramenters, actual paraments, 
+variable mutation
+pointers concept
+arrays
+dictionaries
+object and class.
+properties of object oriented language,
+
+Now start with c programming.
+Resources: 
+1. Internet
+
+Thank you
+TFPKG is a open source project for the next generation kids who want to learn programming in a simple way.
+so if you are interested, we would appreciate your content contribution.
+
+Thank you
+Aariv 
+TMK Labs

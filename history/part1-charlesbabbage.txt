@@ -1,0 +1,30 @@
+Part 1: History of Computer before Charles Babbage
+
+NOTE: If you haven't read the intro article, Kindly read it first. (Kindly refer to history.txt) [https://www.tmklabs.com/blog/how-computers-work-part1]
+
+Hardware: the visible parts of the system. 
+The Beginning of Computation Devices : 
+Roman abacus - 2400 BC (Abacus arithmetic devices used for 1000 years or for millennia)
+The Antikythera mechanism - 100BCE - astronomical computer
+Slide rule - early 1620 
+It's a hand-operated analogue computer for doing multiplications and divisions.
+Now slide rules are replaced with calculators and computers
+
+The most relevant predecessor to today's computers is the Jacquard loom invented in France by Joseph Marie Jacquard around 1800.
+
+Jacquard loom machines work with punch cards, which means rectangular cards with multiple rows of holes that specify weaving patterns.
+
+Source Links for Jacquard Loom Machine : 
+
+https://www.youtube.com/watch?v=MQzpLLhN0fY
+
+https://www.youtube.com/watch?v=lwozgRPLVC8
+
+Knowledge Hub : 
+Whenever a revolution happens, it will have some significant consequences and in this case, As a result of this mechanization, the Luddite movement in England started and it was one of the severe moments in the history of England with unemployment. - 1810 to 1816. And now after 200 years, again the same thing is happening now but the consequences are going to be very severe as ai and computers replace everything from maid to friend to worker to assistants. (We will discuss this too in detail in the upcoming articles.)
+
+
+Reference for these Articles : 
+Youtube: Computer History Museum Channel
+Books: Code, Understanding the Digital World.
+

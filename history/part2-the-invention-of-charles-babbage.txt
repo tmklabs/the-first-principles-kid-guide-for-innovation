@@ -1,0 +1,27 @@
+ARTICLE 3 : THE INVENTION OF THE COMPUTER [CHARLES BABBAGE]
+NOTE: If you haven't read article1 or article 2, Kindly read it first.
+Article 1 : [https://www.tmklabs.com/blog/how-computers-work-part1]
+Article 2: https://www.tmklabs.com/blog/History_of_Computer_before_Charles_Babbage
+In the early 19th century or 1830s:
+
+Now let us discuss our father of the computer, Charles Babbage. A scientist who was interested in navigation and astronomy decided to build a computing device called a difference engine that could calculate scientific calculations to reduce human errors as it was difficult for humans to calculate larger numbers. 
+
+So after completing his first mechanical computer machine called difference engine, in 1837, he realized that he could build a generalized Design called an analytical engine. The instructions or formulae and data had been given to the machine through punched cards here. (This method was being used at the time for direct mechanical looms such as jacquard loom.- (refer 2nd article to learn about jacquard loom))
+
+For output, the machine would have a printer or a curve plotter and a bell or it would also be able to punch the cards to be read in later.
+
+The analytical engine integrated arithmetic logical unit, control flow in the form of conditional branching (if this happens, do this thing else do another thing.) and loops (repeating a task for n number of times.) and integrated memory. 
+
+Unfortunately, as his design was about a century ahead of its time, creating parts by hand became a major problem for people and along with that, financial funds cease by the government made Babbage’s design stick to paper only for about 50 years. But his son in 1888, Henry babbage built the simplified version based on his father's design.
+
+Almost a century later in 1941, z3 by Konrad Zeus built the first general-purpose computer.
+
+EndNote : 
+Imagine now, in the absence of the internet, when Babbage could invent the computer which nobody could understand, then how much we can do this internet era where we can anything at the range of our fingertips?
+
+
+
+Reference for these Articles : 
+Youtube : Computer History Museum Channel
+Books : Code, Understanding the Digital World.
+

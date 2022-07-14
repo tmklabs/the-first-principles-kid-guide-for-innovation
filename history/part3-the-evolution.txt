@@ -1,0 +1,32 @@
+The Evolution
+
+In 1843, Babbage worked with a woman named Augusta Ada byron who was the countess of Lovelace a place in England resulted in a wonderful machine called Babbage’s Analytical engine, the machine which could do arithmetic operations. And Ada was the first programmer in the world by writing a detailed description of how to use the Babs analytical engine.
+
+This machine's result proved that machines could do non-numeric computations as well such as composing music. 
+
+In 1847, one of the biggest things happened but none of us realised that it was about to revolutionise the world and that is Boolean Algebra by George Boole.
+
+Richard Brathwaite the man who used the computer for the first time in his book in 1613 The Young man gleaning.
+
+1872: tide predicting the machine the first modern analogue computer invented by sir WilliamThomson.
+
+In 1890, Herman Hollerith developed a new machine using Jacquard looms idea of punched cards that could tabulate census information faster than human beings. As a result, the US census (10 years mandatory to know the status of the country) in 1890 just took one year instead of 8 years that People took while doing the 1880 census.
+
+In 1931, Vannevar Bush Invented one of the first electromechanical (electric switches changes the state of mechanical relays to perform the calculation) analogue computers for differential analysis.
+
+1935: Tommy Flower invented Vacuum tubes to use as on or off switches in the circuits.
+
+After vacuum tubes arrival, the electromechanical computers were eventually superseded by faster electric computers.
+
+
+1937: 
+Alan Turing explains Computable Numbers with his proposed simple device called a universal computing machine. He proved that UTM is capable of computing anything computable by executing instructions that are stored on the table. In this way, we could allow machines to be programmable.
+Early computing machines had fixed programs which meant changing their function required the rewiring and restructuring of the machine. But with the proposal of a stored-program computer, this was changed permanently. 
+
+A stored program includes an instruction set and can store in memory
+Fundamental concept: a stored program where all the instructions for computing are stored in memory.
+Claud Shannon circuit of the switch can perform boolean algebra tasks
+George Stibitz explains building a calculator using an electric circuit called a relay machine.
+Reference for these Articles : 
+Youtube: Computer History Museum Channel
+Books: Code, Understanding the Digital World.

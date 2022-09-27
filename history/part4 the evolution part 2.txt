@@ -1,0 +1,105 @@
+The Evolution - Part 2
+
+1939:
+	Howard Aiken while doing a PhD in physics at Harvard University, inspired 
+    by the Charles Babbage difference engine, started working on an electro-mechanical 
+    computing device that 
+Could do the calculation for him. And this is called ASCC (Automatic Sequence Controlled Calculator) 
+and was later renamed Harvard Mark 1.
+
+Build by IBM 8 feet high and 51 feet long. and completed in 1943. Grace hopper was 
+the coauthor of the ascc manual.
+
+	Konrad Zuse, developed one of the first electromechanical relay computers.
+
+
+
+
+1941 : 
+
+Zuse built the world's first working electromechanical programmable, 
+fully automatic digital computer with floating-point representation. 
+Configuration : 
+2600 relays
+Memory : 22 bit word length
+Clock frequency: 5 to 10 hz
+Punched card to supply the program code to the machine
+Data stored in 64 words of memory
+
+Rather than using a decimal number system like Charles' Babbage system, 
+he used a binary system which made his machines easier to build and reliable.
+
+The problem with Babbage and other machines is relying on mechanical 
+assemblies of gears, wheels and levers and rods. 
+
+1942: John Vincent Atanasoff and Clifford E Berry of Iowa State University 
+developed and tested the Atanasoff berry computer ABC. the first automatic electronic digital computer
+
+The partial design used 300 vacuum tubes and capacitors(a device that can store 
+an electrical charge) fixed in a mechanically rotating drum 
+For memory. Its weight was around 700 pounds.
+
+
+World War 2: 1939 to 1945:
+
+During world war 2, the British at Bletchley part worked on breaking encrypted 
+German military communications machine Enigma. 
+
+1943: Max Newman along with his colleagues built a colossus to attack the Germans Enigma.
+Colossus was the world's first electronic digital programmable computer made with vacuum tubes.
+
+
+1941 to 1947
+
+But at the beginning of the 20th century, people came up with a new idea that did 
+not rely on mechanical components. The first significant one of these all electronic 
+machines was ENIAC, an electronic numerical integrator and computer which was built 
+during the 1940s at the University of Pennsylvania in Philadelphia by Presper Eckert and John Mauchly.
+
+
+The size of Eniac was a large room that required a large amount of electric power 
+but the result was spectacular. It could do about 5000 additions or subtractions in 
+one second. It also had modules to multiply divide and square roots. The reason for 
+building Eniac is to use it for ballistics computations. But it was not completed until 
+1946 world war 2.
+
+Memory is restricted to only 20 words or 80 bytes.
+It had used 17000 vacuum tubes and in case of a tube failure (quite common for every two days), 
+it would take 15 minutes to locate.
+Eniac: consumed 150 kilowatts of power of which 80 kilowatts were just used for heating tubes. 
+45 kW for dc power supplies and 20kw for ventilation blowers and 5 kws for punched card equipment.
+Weight 30 tons
+
+Eniac is faster than colossus and it was Turing complete. In this machine, once the program 
+is done, ENIAC girls 6 members had to manually set the program into the machine by resetting plugs and switches. 
+
+Regardless of ENIAC's claims on inventing the first digital computer, the patent was thrown out 
+by the court in 1973. Because it was ABC who did the first digital computer.
+
+Unlike Babbage, ENIAC did not store instructions in the memory along with the data, instead, 
+It was programmed by setting up the connection through switches and recabling. 
+
+1949 : 
+EDSAC: Electronic delay storage automatic calculator which can store programs and data 
+together was first built in England.
+
+1947: with the invention of transistors, the modern era of computing relay began.
+
+1950: Turing's test for artificial Intelligence
+
+1952: Grace Hopper develops first computer compiler
+
+1955: transistors replaced vacuum tubes
+
+1957: Robert Noyce and Gorden Moore started Fairchild Semiconductors
+
+1958: Integrated circuits - the modern era of computing began.
+	This allowed electronic systems to become smaller cheaper and faster
+
+
+With that, we have finished the articles related to history and starting
+next article, we will be discussing hardware in detail.
+
+Reference for these Articles : 
+Youtube: Computer History Museum Channel
+Books: Code, Understanding the Digital World.

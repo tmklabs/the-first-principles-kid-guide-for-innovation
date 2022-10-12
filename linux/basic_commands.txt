@@ -1,4 +1,4 @@
-LINUX BASIC COMMANDS
+LINUX BASIC COMMANDSss
 
 cat file1.txt file2.txt .... fileN.txt: 
 To print the contents stored in the given file or files in the terminal

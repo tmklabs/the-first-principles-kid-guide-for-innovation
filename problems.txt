@@ -1,0 +1,5 @@
+Write a program to print hello world
+Write a program to add two numbers
+Write a program to calculate the square root of a number
+Write a program to find the area of a triangle
+Write a program to solve the quadratic equation ax**2 + bx + c = 0

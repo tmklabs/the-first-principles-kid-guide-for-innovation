@@ -1,5 +1,15 @@
-Write a program to print hello world
-Write a program to add two numbers
-Write a program to calculate the square root of a number
-Write a program to find the area of a triangle
-Write a program to solve the quadratic equation ax**2 + bx + c = 0
+1.Write a program to print hello world Write a program to add two numbers
+2.Write a program to calculate the square root of a number
+3.Write a program to find the area of a triangle
+4.Write a program to solve the quadratic equation ax**2 + bx + c = 0
+5.Write a program to find a number is even or odd
+6.Write a program to find a number is prime or composite number
+7.Write a program to find simple interest
+8.Write a program to find compound interest
+9.Write a program to find age based on the dob input
+10. Write a program to find a year is leap year or not
+
+
+
+
+

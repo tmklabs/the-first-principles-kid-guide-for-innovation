@@ -52,3 +52,4 @@ tags that you must learn
 9. article tag
 
 semantic meaning
+its just an intro about html thats all

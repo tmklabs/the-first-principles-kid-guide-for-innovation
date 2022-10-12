@@ -1,5 +1,8 @@
 LINUX BASIC COMMANDS
 
+To open terminal:
+control+alt+t
+
 cat file1.txt file2.txt .... fileN.txt: 
 To print the contents stored in the given file or files in the terminal
 

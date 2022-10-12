@@ -1,3 +1,4 @@
+print("key concept of python")
 """
 1.Print function
 2. Escape characters

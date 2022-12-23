@@ -1,19 +1,46 @@
-Concepts to learn in js
-
-How Js started
-console.log, Datatypes and Variables [var,let,const]
-use strict // activating strict mode
-Operators in details 
-Strings and Template literals printing
-Precedence and Associativity 
-Conditional statements
-Functions
-functions declarations vs expressions
+Concepts
+Introduction to JS
+Hello world program
+Variables in detail
+Values in deail
+Datatypes, Let, const, var
+Operators - Arithmetic
+Precedence 
+Strings
+Template literals
+Control flow statements - if,if else...
+type conversion
+type coercion
+Operators - Equality
+Operators - Boolean
+Switch statements
+Terenary operators
+Strict mode
+Functions in detail
 Arrow functions
-First class functionsfunctions classing other functions
-Loops
-looping arrays
+function calling other function
+Array
+array methods
+introduction to objects
+dot notion
+bracket notation
+introduction to loops
+for loop
 jumping statements
-nested Loops
+while loop
+vs code setup - prettier
+nodejs installation
+debugging in details , console,breakpoints...
+DOM in details
+selecting and manipulating elements
+handling clicke events
+implementing guess my number
+DRY - do not repeat yourself
+working with classes
+handling kepress events
 
-will add the remaining topics soon...
+
+Behind the scenes of Javascript
+JS engine and runtime
+execution contexts and the call stack
+scope and scope chain

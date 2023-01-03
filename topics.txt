@@ -1,0 +1,189 @@
+Concepts
+Introduction to JS
+Hello world program
+Variables in detail
+Values in deail
+Datatypes
+ Let, const, var
+Operators - Arithmetic
+Precedence 
+Strings
+Template literals
+Control flow statements - if,if else...
+type conversion
+type coercion
+Operators - Equality
+Operators - Boolean
+Operators - Logical
+Switch statements
+Terenary operators
+Strict mode
+Functions in detail
+Arrow functions
+function calling other function
+Array
+array methods
+introduction to objects
+dot notion
+bracket notation
+introduction to loops
+for loop
+jumping statements
+while loop
+vs code setup - prettier
+nodejs installation
+debugging in details , console,breakpoints...
+
+
+Introduction to HTML
+Introduction to CSS
+
+DOM in details
+selecting and manipulating elements
+handling clicke events
+implementing guess my number
+DRY - do not repeat yourself
+working with classes
+handling kepress events
+
+
+Behind the scenes of Javascript
+JS engine and runtime
+execution contexts and the call stack
+scope and scope chain
+Hoisting
+This Keyword in detail
+Regular function vs Arrow function
+Primitives vs objects
+
+
+Datastructures ---
+Destructuring Arrays
+Destructuring objects
+Spread operators
+Rest Pattern and Parameters
+Short circuiting
+Nullish Coalescing Operators
+For of Loop
+Enhanced Object Literals
+Optional Chaining
+Looping objects - Object Keys, Values, Entries
+Sets
+Maps
+Iterating Maps
+Strings
+
+Functions intro
+Default Parameters
+Passing parameters
+First class functions
+Higher order functions
+Functions returning functions
+Call method
+apply method
+bind method
+Immediately invoked function expressions IIFE
+Closures
+
+Arrays
+Array introduction
+new Keyword
+looping Arrays
+for each
+foreach with Maps and Sets
+Data transformations - maps, filter, reduce
+find method
+
+Project Bank TMK
+Login system
+Money transfer
+...
+
+FindINdex method
+some and every
+flat and flatMap
+soring arrays
+
+NUMBERS, DATES, INTL object and TIMERS
+
+Converting and checking NUMBERS
+Math and rounding
+Remainder operator
+Numeric seperators
+working with BigInt
+Creating Dates
+Adding dates to the project
+operation with dates
+internationalizing dates
+internationalizing NUMBERS
+TIMERS - setTimeou and setInterval
+Implementing countdown TIMERS
+
+
+DOM Advanced
+DOM behind the scenes
+selecting , creating and deleting elements
+styles, attributes and classes
+implementing smooth scrolling
+types of events and event handlers
+event propagation
+event delegation
+Dom traversing
+building a tabbed component
+passing arguments to event handlers
+sticky navigation
+scroll event
+revealing elements on scroll
+lazy loading images
+building a slider/carousel
+lifecycle dom events
+effieicient script loading : defer and async
+
+
+OBJECT ORIENTED LANGUAGE
+history
+constuctor functions and new operator
+prototypes
+inheritance with prototypes and prototype chain
+prototypal inheritance on built in objects
+CLasses in ES6
+setters and getters
+static methods
+object.create
+inheritance in detail
+Encapsulation in detail
+private class fields and methods
+chaining methods
+
+
+TMK Retreats project:
+Planning the project
+using geolocation api
+displaing map using leaflet library
+displaying a map marker
+rending workout input form
+....
+
+
+
+AJAX in detail
+Ajax call XMLHttpRequest
+callback
+promises and fetch api
+chaining promises
+handling rejected promises
+throwing errors manually
+behind the scenes of AJAX
+error handling using try and catch
+returning values from async
+running promises in parallel
+
+
+MOdern JS Development
+Exporting and IMporting in ES6
+module pattern
+common js modules
+bundling with parcel and npm scripts
+configuring bable and polyfilling
+
+Deployement using git,gihub and Netlify

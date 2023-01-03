@@ -3,7 +3,8 @@ Introduction to JS
 Hello world program
 Variables in detail
 Values in deail
-Datatypes, Let, const, var
+Datatypes
+ Let, const, var
 Operators - Arithmetic
 Precedence 
 Strings

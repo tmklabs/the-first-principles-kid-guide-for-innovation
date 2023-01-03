@@ -37,38 +37,6 @@ CONSOLE.LOG
 a special function that we use to print the result on the console.
 
 
-*/
-// // /*
-// // print statement - L29
-// // CONCATENATION -  L33
-// // variables - L38
-// // PROMPT -L63
-// // SYMBOL NAMES - L73
-// // type coercion - L92
-// // variable mutation - L102
-// // primitives in details - numbers, strings, empty strings,undefined,null,boolean - L115
-// // operators-L191 
-// // control statements-L226
-// // loops L258
-// // arrays L309
-// // JUMPING STATEMENTS L355
-// // objects - L381
-// // functions -L416
-// // initializing objects - L529
-// // objects and methods - L541
-// // object oriented programming - L560
-// // function constructors - L603
-// // prototypes - 659
-// // copying primitives - L677
-//  copying objects L690
-// passing variables to the functions L706
-// // passing object to the functions as arguments - L718
-// FIRST CLASS FUNCTIONS - L743
-// passing function as arguments to another function-L745
-// functions returning functions - L766
-// IIFE - immediately invoked function expression L-816
-// // closures L-828
-// METHOD BORROWING : CALL METHOD AND BIND METHOD L-868
 
 
 
@@ -139,11 +107,7 @@ a special function that we use to print the result on the console.
 // // `` - backticks
 
 
-// // TYPE COERCION - CHANGING NUMBERS AND BOOLEN TO STRING
-// // name = 'steve';
-// // age = 60;
-// // age = '60';
-// // name = 'steve';
+
 
 // // typeof() : special method used to find the data type or primitive type
 // // console.log('The data type of name is ' + typeof (age));
@@ -161,14 +125,28 @@ a special function that we use to print the result on the console.
 
 
 
-// // primitives in details
+// // data type or  primitives in details
 
-// // in JS, we have Numbers, Strings, undefined, null,boolean
-// // Numbers
+value
+1. Object
+eg: let student_details = 
+{
+    'name': 'naman',
+    'no':2,
+}
+
+2. primitive
+eg: 
+let name = 'naman';
+
+
+/*
+ in JS, there are 7 data types
+ 1 Numbers: 
 // var age = 45;
 // // console.log('The type of age is', typeof (age));
 
-// // Strings
+2  Strings: Sequence of characters 👉 Used for text
 // var age = "45";
 // // console.log('The type of age is', typeof (age));
 
@@ -176,23 +154,85 @@ a special function that we use to print the result on the console.
 // var age = "";
 // // console.log('The type of age is', typeof (age));
 
+3 Boolean:
+ Logical type that can only be true or false 👉 Used for taking decisions
+// // var isRaining = false;
+// // console.log(isRaining);
 
-// // undefined - when you are ignoring
+4  undefined - a variable that is not yet assigned any valur or when you are ignoring
 // var steveAge;
 // // console.log('The type of Steve Age is', typeof (steveAge));
 
-// // null - when you say explicitly that you know nothing, we call it as null
+5  null - when you say explicitly that you know nothing, we call it as null
 
 // var billAge = null;
 // // null is a datatype of Object
 // // console.log('The type of bill Age is', typeof (billAge));
 
-// // boolean - true or false
+6. Symbol : came to existance in 2016 with es5
 
-// // var isRaining = false;
-// // console.log(isRaining);
+7. BigInt: Es9 
+to hold large integers than Number type can hold
+
+Js has dynamic typing means that you dont have any need to mention the data type of the variable explicitly.
 
 
+
+LET VS CONST VS VAR
+
+let : we use to mutate or change a variable
+const : we use to restrict a variable value or to immutate a variable value
+var: old way of defining variables before es6
+
+difference between let vs const vs var
+
+writng var or let keyword is optional but this can lead to object creation at global level
+
+eg:
+let name = 'aariv'
+const age = 24;
+
+*/
+
+// concatenation and string literal 
+var firstNumber = 5;
+var secondNumber = 6;
+var total = firstNumber / secondNumber;
+
+console.log('Addition of' + firstNumber + ' and ' + secondNumber + 'is ' + total);
+// using string literals with `` backtiks
+console.log(`Addition of ${firstNumber} and ${secondNumber} is ${total}`);
+
+// writing multiple lines in log using escape character \n
+
+console.log('first line \n second line \n third line');
+
+// using string literal
+console.log(`first line
+secondline
+third line`);
+
+
+
+// type conversion
+
+
+/* let a = '2'
+console.log(a + 2);
+ouput: 22 */
+
+/* let a = '2'
+
+console.log(Number(a) + 2);
+ouput: 22 */
+
+
+// type coersion
+console.log("hello, I have only " + 5 + "Lakh rupees.");
+// console.log('23'-'2'); // 21
+
+/* let n = 1 + 2 + 3 + '4'
+console.log(n); //64 */
 
 
 // // control statements- if, if else,else if ladder, 
@@ -287,21 +327,241 @@ a special function that we use to print the result on the console.
 // var tn = 20;
 // var frn = 30;
 
-// // if (fn > sn && fn > tn && fn > frn) {
-// //     console.log(fn + ' is greter than ' + sn + ' and ' + tn + ' and ' + frn);
-// // }
-// // else if (sn > fn && sn > tn && sn > frn) {
-// //     console.log(sn + ' is greter than ' + fn + ' and ' + tn + ' and ' + frn);
+// if (fn > sn && fn > tn && fn > frn) {
+//     console.log(fn + ' is greter than ' + sn + ' and ' + tn + ' and ' + frn);
+// }
+// else if (sn > fn && sn > tn && sn > frn) {
+//     console.log(sn + ' is greter than ' + fn + ' and ' + tn + ' and ' + frn);
+// }
+
+// else if (tn > fn && tn > sn && tn > frn) {
+//     console.log(tn + ' is greter than ' + fn + ' and ' + sn + ' and ' + frn);
+
+// }
+// else {
+//     console.log(frn + ' is greter than ' + fn + ' and ' + sn + ' and ' + tn);
+// }
+
+
+// switch statement
+
+/* const day = 'sunday'
+
+switch (day) {
+        case 'monday':
+                console.log('today is at tmk labs');
+                break;
+        case 'sunday':
+        case 'saturday':
+
+                console.log('today is at tmk school');
+                break;
+        case 'tuesday':
+                console.log('today is at tmk cafe');
+                break;
+        default:
+                console.log("not valid");
+
+} */
+
+// 2 > 3 ? console.log('true') : console.log('false');
+
+
+/* 
+HISTORY OF JAVASCRIPT
+1995
+👉 Brendan Eich creates the very first version of JavaScript in just 10 days. It was called
+Mocha, but already had many fundamental features of modern JavaScript!
+1996
+👉 Mocha changes to LiveScript and then to JavaScript, in order to attract Java developers.
+However, JavaScript has almost nothing to do with Java ☝
+👉 Microsoft launches IE, copying JavaScript from Netscape and calling it JScript;
+1997
+👉 With a need to standardize the language, ECMA releases ECMAScript 1 (ES1), the rst official
+standard for JavaScript (ECMAScript is the standard, JavaScript the language in practice);
+2009👉 ES5 (ECMAScript 5) is released with lots of great new features;
+2015👉 ES6/ES2015 (ECMAScript 2015) was released: the biggest update to the language ever!
+👉 ECMAScript changes to an annual release cycle in order to ship less features per update 🙏
+👉 Release of ES2016 / ES2017 / ES2018 / ES2019 / ES2020 / ES2021 / … / ES2089 😅
+
+DON’T BREAK THE WEB!
+
+it means don't break the old code 
+so websites work forver without any issues
+
+ES5
+👉 Fully supported in all browsers (down to IE 9 from 2011);
+👉 Ready to be used today 👍
+ES6/ES2015
+👉 ES6+: Well supported in all modern browsers;
+👉 No support in older browsers;
+👉 Can use most features in production with transpiling and polyfilling 😃
+
+👉 ESNext: Future versions of the language (new feature proposals that reach Stage 4);
+👉 Can already use some features in production with transpiling and polyfilling.
+
+to use modern js
+During development: Simply use the latest Google Chrome!
+
+🚀 During production: Use Babel to transpile and poly ll your code (converting
+back to ES5 to ensure browser compatibility for all users).
+so that the website remains same in all the browsers
+
+*/
+
+// using strict mode : avoids accidental bugs
+// 'use strict'; 
+
+
+/* 
+without use strict
+let abc =2
+if (abc = 2)
+ac = 3
+this is an error but it wont say
+
+*/
+
+
+// // FUNCTION -A PIECE OF CODE WHERE WE CAN USE IT MULTIPLE TIMES INSTEAD OF REPEATING THE CODE
+
+// var a = 5;
+// var b = 6;
+// var c = a + b;
+// console.log('sum is : ', c);
+
+// var d = 8;
+// var e = 8;
+// console.log('sum is :', d + e);
+
+
+// FUNCITON IMPLEMENTATION
+// function addition(firstNo, secondNo) {
+//firstNo and secondNo are called FORMAL PARAMETERS
+//     var sum = firstNo + secondNo;
+//     console.log('value of sum is :', sum);
+// }
+
+// function multiplication(fn, sn) {
+//     var multiply = fn * sn;
+//     console.log('value of multiplication is : ', multiply);
+
+// }
+
+// function subtraction(fn, sn) {
+//     var sub = fn - sn;
+//     console.log('value of subtraction is : ', sub);
+
+// }
+
+// // parseInt - converting string to integer
+// // eg: '23' - 23
+// // eg : 'a' - Not possible
+
+// // var a = parseInt(prompt('Enter first number :'));
+// // var b = parseInt(prompt('Enter second number :'));
+
+// FUNCTION CALLING OR INVOKING
+// // addition(a, b); 
+// a and b are actual parameters
+// // multiplication(a, b);
+// // subtraction(a, b);
+
+
+// // four types of functions
+// // 1. function with no return type
+
+// function addition(fn, sn) {
+//     console.log('sum is : ', fn + sn);
+
+// }
+
+// addition(3, 5);
+
+// // 2. function with return type
+
+// function multiplication(fn, sn) {
+//     return fn * sn;
+// }
+
+// console.log(multiplication(4, 5));
+
+
+
+
+
+
+
+
+// // function balance_enquiry(name) {
+// //     console.log('hi ' + name + ' welcome to SBI');
+// //     return 20000;
+
 // // }
 
-// // else if (tn > fn && tn > sn && tn > frn) {
-// //     console.log(tn + ' is greter than ' + fn + ' and ' + sn + ' and ' + frn);
+// // var remain_balance = balance_enquiry('Ramesh');
+// // console.log(remain_balance);
 
-// // }
-// // else {
-// //     console.log(frn + ' is greter than ' + fn + ' and ' + sn + ' and ' + tn);
+// // console.log(5 % 2);
+
+
+
+// // console.log('welcome to sbi');
+// // function bal_enq() {
+// //     choice = prompt('DO you want a receipt?');
+// //     if (choice === 'y') {
+// //         receipt = 2000;
+// //         return receipt;
+// //     }
+// //     else {
+// //         console.log('your balance is ', 2000);
+// //         console.log('Thank you for using SBI');
+
+
+// //     }
 // // }
 
+// // console.log(bal_enq());
+
+// // whenever you return something from a function, we need to write the function call with log
+
+
+
+
+// FUNCTION EXPRESSION
+
+// function declaration or impletemention
+function add(a, b) {
+        console.log("addition is", a + b);
+}
+
+add(2, 3)
+
+// function expression
+
+const sum = function (a, b) {
+        console.log(`addition is ${a + b}`);
+}
+
+/* function (a, b) {
+        console.log(`addition is ${a + b}`);
+}
+this is called function expression
+
+DIFFERENCE IS YOU CAN CALL FUNCTION DECLARAION EVEN BEFORE IMPLEMENTING THE FUNCTION
+WHERE AS FUNCTION EXPRESSION, YOU CANT call before implementation
+*/
+
+sum(3, 4)
+
+// arrow function: short form of writing function and its quick - ES6
+
+const sum_arrow = (a, b) => console.log(`addition is ${a + b}`);
+
+sum_arrow(4, 5)
+
+
+//  function calling another function
 
 // // LOOPS - repeating the same task
 
@@ -352,6 +612,10 @@ a special function that we use to print the result on the console.
 
 // //     number++;
 // // }
+
+
+
+// with that, part 1 is completed.
 
 
 // // ARRAY - list of elements
@@ -649,7 +913,7 @@ while (true) {
         console.log(questions[questionNumber]);
         console.log(choices[questionNumber]);
 
-        selected_option = prompt('Enter your option ')
+        // selected_option = prompt('Enter your option ')
         console.log(typeof (selected_option));
 
         if (choices[questionNumber][selected_option] === answers[questionNumber]) {
@@ -685,103 +949,6 @@ console.log('You got ', score);
 
 
 
-
-// // FUNCTION -A PIECE OF CODE WHERE WE CAN USE IT MULTIPLE TIMES INSTEAD OF REPEATING THE CODE
-
-// var a = 5;
-// var b = 6;
-// var c = a + b;
-// console.log('sum is : ', c);
-
-// var d = 8;
-// var e = 8;
-// console.log('sum is :', d + e);
-
-
-// function addition(firstNo, secondNo) {
-//     var sum = firstNo + secondNo;
-//     console.log('value of sum is :', sum);
-// }
-
-// function multiplication(fn, sn) {
-//     var multiply = fn * sn;
-//     console.log('value of multiplication is : ', multiply);
-
-// }
-
-// function subtraction(fn, sn) {
-//     var sub = fn - sn;
-//     console.log('value of subtraction is : ', sub);
-
-// }
-
-// // parseInt - converting string to integer
-// // eg: '23' - 23
-// // eg : 'a' - Not possible
-
-// // var a = parseInt(prompt('Enter first number :'));
-// // var b = parseInt(prompt('Enter second number :'));
-// // addition(a, b);
-// // multiplication(a, b);
-// // subtraction(a, b);
-
-
-// // four types of functions
-// // 1. function with no return type
-
-// function addition(fn, sn) {
-//     console.log('sum is : ', fn + sn);
-
-// }
-
-// addition(3, 5);
-
-// // 2. function with return type
-
-// function multiplication(fn, sn) {
-//     return fn * sn;
-// }
-
-// console.log(multiplication(4, 5));
-
-
-
-
-
-
-
-
-// // function balance_enquiry(name) {
-// //     console.log('hi ' + name + ' welcome to SBI');
-// //     return 20000;
-
-// // }
-
-// // var remain_balance = balance_enquiry('Ramesh');
-// // console.log(remain_balance);
-
-// // console.log(5 % 2);
-
-
-
-// // console.log('welcome to sbi');
-// // function bal_enq() {
-// //     choice = prompt('DO you want a receipt?');
-// //     if (choice === 'y') {
-// //         receipt = 2000;
-// //         return receipt;
-// //     }
-// //     else {
-// //         console.log('your balance is ', 2000);
-// //         console.log('Thank you for using SBI');
-
-
-// //     }
-// // }
-
-// // console.log(bal_enq());
-
-// // whenever you return something from a function, we need to write the function call with log
 
 // // INITIALIZING OBJECTS
 
